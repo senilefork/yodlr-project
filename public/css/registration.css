@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+.card{
+    margin:auto;
+}
+
+.btn-container{
+    text-align: center;
+}
+
+.link-wrapper{
+    display: flex;
+    justify-content: space-around;
+    
+}
+

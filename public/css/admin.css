@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    margin: bottom;
+}
+
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+}
